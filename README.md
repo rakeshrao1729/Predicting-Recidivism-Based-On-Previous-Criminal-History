@@ -1,7 +1,7 @@
 # Predicting-Recidivism-Based-On-Previous-Criminal-History
 
 **Recidivism:**
-Recidivism refers to the tendency of a convicted criminal to reoffend after having been previously punished or released from Prism.
+Recidivism refers to the tendency of a convicted criminal to reoffend after having been previously punished or released from Prison.
 
 This Analysis is part of the National Institute of Justice (NIJ) Recidivism Forecasting Challenge, which focuses on improving recidivism prediction using advanced data analysis to support fair and effective criminal justice outcomes.
 
